@@ -1,8 +1,12 @@
 /* styles go here */
 
+html {
+  margin: auto;
+}
+
 .form-field {
   display: block;
-  margin: 10px;
+  margin: 10px auto;
 }
 
 .block {

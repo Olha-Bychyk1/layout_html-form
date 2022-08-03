@@ -1,1 +1,14 @@
 /* styles go here */
+
+.form-field {
+  display: block;
+  margin: 10px;
+}
+
+.block {
+  margin: 20px;
+}
+
+.last-input {
+  margin-bottom: none;
+}
